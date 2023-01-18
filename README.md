@@ -20,8 +20,6 @@ Ara Menuden 3 farklı Yön vardır.
 Ana Menuye giderseniz son oyun kaydından geri dönme ihtimaliniz vardır. Oyun son oyun için sadece kayıt tutar.
 İyi Eğlenceler
 
-#sda
-*dsadsa
 
 
 Proje takım arkadaşım Mehmet Emin Eraslan' a teşekkür ediyorum.
