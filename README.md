@@ -14,12 +14,14 @@ Normala Oyun sade bir oynanış içerirken Hızlandırmalı Oyun sahanın ortas�
 Engelli Oyunda ise sahanın ortasında iki engel vardır topun geri sekmesini sağlar ve rekabeti artırır
 oyun esnasında esc tuşuna basarak ara menuye gidebilirsiniz
 Ara Menuden 3 farklı Yön vardır.
-	#*Oyunu yeniden başlatmak
-	#*Devam Ettirmek
-	#*Ana Menuye gitmek
+	*Oyunu yeniden başlatmak
+	*Devam Ettirmek
+	*Ana Menuye gitmek
 Ana Menuye giderseniz son oyun kaydından geri dönme ihtimaliniz vardır. Oyun son oyun için sadece kayıt tutar.
 İyi Eğlenceler
 
+#sda
+*dsadsa
 
 
 Proje takım arkadaşım Mehmet Emin Eraslan' a teşekkür ediyorum.
